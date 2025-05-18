@@ -55,7 +55,7 @@ I'm a CFD engineer with a strong academic and industrial background in **multiph
 
 ### 📫 Connect with Me:
 - 📧 Email: psrivastava.srivastava18@gmail.com  
-- 🌐 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+- 🌐 LinkedIn: www.linkedin.com/in/prashantcfdanalyst
 - 🌍 Open to collaborations, consulting opportunities, and global R&D roles
 
 ---
